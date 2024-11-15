@@ -1,0 +1,81 @@
+.titulo-publicidad{
+    text-align: center;
+    margin: 20px;
+    text-decoration: underline ;
+    background-color: white ;
+    border-radius: 10px;
+    padding: 15px;
+    border: black 3px solid;
+}
+#titulo-publicidad{
+    font-size: 2.5rem;
+}
+.publicidad-contenedor{
+    margin: 20px; 
+    background-color: white ;
+    height: fit-content;
+    width: 70%;
+    padding: 30px;
+    border-radius: 10px;
+    border: black 3px solid;
+}
+.centrador-publicidad{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contenedor-organizador{
+    display: flex;
+    justify-content: center;
+
+}
+.organizador-publicidad{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin: 20px;
+    height: 50vh;
+    width: 70%;
+    padding: 10px;
+    border-radius: 10px;
+}
+.cuadro-pequeño{
+    border-radius: 5px;
+    margin: auto;
+    background-color: white;
+   height: 90%;
+   width: 80%;
+   border: black 3px solid;
+}
+.cuadros-pequeños{
+    border-radius: 5px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    background-color: white;
+    height: fit-content;
+    width: 80%;
+    border: black 3px solid;
+}
+.publicidad-contenedor h3{
+    font-size: 1.4rem;
+}
+.publicidad-contenedor h1{
+    margin: 10px;
+    text-decoration: underline;
+}
+.cuadro{
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
+    padding: 5px;
+    overflow: hidden;
+}
+.cuadro img{
+    border: black solid 4px;
+    width: 90%;
+    height:80%;
+}
+.cuadro h3{
+    margin: 5px;
+}
+
