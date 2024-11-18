@@ -62,6 +62,70 @@ export function Trabajo1() {
                     </h3>
                 </div>
             </div>
+
+            <div className="centrador-publicidad">
+                <div className="publicidad-contenedor">
+                    <h1> Caracteristicas de la publicidad </h1>
+                    <h3>
+                        El estudio de la publicidad se aborda
+                        principalmente desde tres campos que
+                        profundizan en sus funciones y su
+                        repercusión, por eso se habla del modelo
+                        económico, el comunicativo y el psicosocial.
+                        Si recogemos las directrices básicas de cada uno
+                        de ellos, podemos entender la publicidad como
+                        “un sistema de comunicación que pone en
+                        relación a las organizaciones y sus públicos a
+                        través de mensajes emitidos vía medios de
+                        comunicación de masas con el fin de informar
+                        sobre un producto, un servicio, una organización
+                        o una idea e influir en su predisposición o su
+                        comportamiento”.
+                    </h3>
+                    <br />
+                    <h2 style={{ textDecoration: "underline" }}>Estas son las claves de la definición:</h2>
+                    <br />
+                    <h3>
+                        • Sistema de comunicación - En él aparecen
+                        todos los elementos de un proceso de
+                        comunicación: emisor, receptor, mensaje,
+                        código, contexto, medios (canal), referente,
+                        efecto y retroalimentación.
+                    </h3>
+                    <br />
+                    <h3>
+                        • Medios de comunicación de masas - Los
+                        llamados mass media permiten llegar a un
+                        público que, precisamente por su cantidad, hace
+                        necesario el mecanismo publicitario. La
+                        comunicación que se establece no permite el
+                        contacto personal entre el emisor y el receptor ni
+                        la participación equiparable de éste último, ya
+                        que la audiencia no dispone de los medios
+                        de creación ni acceso a los espacios publicitarios.
+                    </h3>
+                    <br />
+                    <h3>
+                        • El tema - La publicidad puede anunciar
+                        detergentes y coches, bancos y transporte aéreo,
+                        una editorial y una fundación, el espíritu olímpico
+                        y la tolerancia. También puede ser utilizado por
+                        los que compiten con todos estos productos,
+                        servicios, organizaciones e ideas.
+                    </h3>
+                    <br />
+                    <h3>
+                        • El objetivo - Aristóteles decía “no existe la
+                        comunicación que no trate de persuadir”. Informar
+                        y persuadir es el doble fin que pretende cualquier
+                        anuncio, no es exclusivo de la publicidad pero
+                        explica su existencia y buena parte de sus
+                        características. Su intención será provocar,
+                        acentuar o cambiar la aceptación o el rechazo de
+                        aquello de lo que habla.
+                    </h3>
+                </div>
+            </div>
         </>
     )
 }

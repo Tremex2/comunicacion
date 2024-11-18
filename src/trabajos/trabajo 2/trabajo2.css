@@ -1,0 +1,37 @@
+.cuadro-pequeño-debate{
+    background-color: aliceblue;
+    height: 25vw;
+    margin-right: 5px;
+    margin-left: 5px;
+}    
+.imagen-debate{
+    height: 90%;
+    width: 100%;
+}
+.cuadro-pequeño-debate-imagenes {
+        background-color: aliceblue;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        height: 18vw;
+        width: 35vw;
+     margin: 10px;
+    }
+.organizador-debate{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin: 20px;
+    height: fit-content;
+    width: 70%;
+    padding: 10px;
+    border-radius: 10px;
+}
+.cuadro-publicidad{
+    width: 90%;
+    height: 80%;
+    border-radius: 5px;
+    padding: 5px;
+    overflow: hidden;
+    display: block;
+    border: solid black 3px;
+    margin: 2px
+}

@@ -41,13 +41,13 @@ export function Menu() {
           <h4>Inicio</h4>
         </Link>
         <Link className="opcion" to={"/"}>
-          <h4>trabajos disponibles: 0</h4>
+          <h4>trabajos disponibles: 4</h4>
         </Link>
         <Link className="opcion" to={"/"}>
-          <h4>version: 0.2</h4>
+          <h4>version: 0.4</h4>
         </Link>
         <Link className="opcion" to={"/"}>
-          <h4>Tiempo en desarrollo: 1 semana</h4>
+          <h4>Tiempo en desarrollo: 2 semanas</h4>
         </Link>
         <Link className="opcion" to={"/"}>
           <h4>Tecnologias: React, JS, html, css y Git</h4>

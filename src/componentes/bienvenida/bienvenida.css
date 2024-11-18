@@ -31,6 +31,7 @@
   border: 10px solid rgb(182, 178, 178);
     order: 2;
     color: rgb(255, 255, 255);
+    background-color: gray;
     text-align: center;
     font-family: Jost;
     font-style: italic;
@@ -61,10 +62,11 @@
     font-family: Jost;
     font-style: italic;
     border-radius: 15px;
+    background-color: gray;
 }
 .juegocreador{
     height: 100px; 
-  background-color: rgb(1, 31, 41);
+  background-color: rgb(84, 84, 84);
   margin: 15px; 
     border: 2px solid rgb(12, 12, 12);
     Display: flex; 
@@ -159,6 +161,7 @@ font-size: 30px;
     justify-content: center;
   align-items: center;
     order: 3;
+    background-color: gray;
     border: 10px solid rgb(182, 178, 178);
     color: white;
     font-family: Jost;

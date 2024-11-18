@@ -11,8 +11,7 @@ export function Bienvenida() {
             <div className="bienvenida-titulo">
               <h1>¡Bienvenido a nuestra pagina web!</h1>
               <h2>
-                Con los tags que ves a los lados puedes desplazarte en nuestro
-                catálogo.
+                Con los tags que ves a los lados puedes desplazarte entre los distintos trabajos.
                 <br />
                 ¡Explora!
               </h2>
@@ -25,33 +24,33 @@ export function Bienvenida() {
               <div className="recomenjuegos4">
                 <div className="juegocreador" id="juegocreador2">
                   <Link className="linkjuegosinicio1" to={"/trabajos/1"}>
-                    <h2>trabajo 1</h2>
+                    <h2>Origen de la publicidad</h2>
                   </Link>
                 </div>
                 <div className="juegocreador" id="juegocreador2">
-                  <Link className="linkjuegosinicio1" to={"/corto/4/oneshot"}>
-                    <h2>trabajo 2</h2>
+                  <Link className="linkjuegosinicio1" to={"/trabajos/2"}>
+                    <h2>El debate publicitario</h2>
                   </Link>
                 </div>
                 <div className="juegocreador" id="juegocreador3">
-                  <Link className="linkjuegosinicio1" to={"/2D/1/hollow-knight"}>
-                    <h2>trabajo 3</h2>
+                  <Link className="linkjuegosinicio1" to={"/trabajos/3"}>
+                    <h2>Logotipos</h2>
                   </Link>
                 </div>
                 <div className="juegocreador" id="juegocreador4">
                   <Link
                     className="linkjuegosinicio1"
-                    to={"/primera-persona/1/bioshock"}
+                    to={"/trabajos/4"}
                   >
-                    <h2>trabajo 4</h2>
+                    <h2>Gig economy</h2>
                   </Link>
                 </div>
                 <div className="juegocreador" id="juegocreador5">
                   <Link
                     className="linkjuegosinicio1"
-                    to={"/primera-persona/1/subnautica"}
+                    to={"/trabajos/5"}
                   >
-                    <h2>trabajo 5</h2>
+                    <h2>Bienestar y consumo</h2>
                   </Link>
                 </div>
               </div>
