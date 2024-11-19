@@ -53,6 +53,10 @@
   margin-right: 10px; 
        margin-left: 10px; 
 }
+
+.separador{
+ margin-bottom: 15% !important;
+}
 .recomen{
     justify-content: center; 
   align-items: center; 
@@ -63,11 +67,24 @@
     font-style: italic;
     border-radius: 15px;
     background-color: gray;
+    display: grid;
+}
+.recomen-2{
+  justify-content: center; 
+align-items: center; 
+  order: 3;
+  border: 10px solid rgb(182, 178, 178);
+  color: white;
+  font-family: Jost;
+  font-style: italic;
+  border-radius: 15px;
+  background-color: gray;
+  display: grid;
 }
 .juegocreador{
     height: 100px; 
   background-color: rgb(84, 84, 84);
-  margin: 15px; 
+   
     border: 2px solid rgb(12, 12, 12);
     Display: flex; 
 align-items: center;

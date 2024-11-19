@@ -41,13 +41,13 @@ export function Menu() {
           <h4>Inicio</h4>
         </Link>
         <Link className="opcion" to={"/"}>
-          <h4>trabajos disponibles: 4</h4>
+          <h4>trabajos disponibles: 6</h4>
         </Link>
         <Link className="opcion" to={"/"}>
-          <h4>version: 0.4</h4>
+          <h4>version: 1.0</h4>
         </Link>
         <Link className="opcion" to={"/"}>
-          <h4>Tiempo en desarrollo: 2 semanas</h4>
+          <h4>Tiempo en desarrollo: 2 semanas y media</h4>
         </Link>
         <Link className="opcion" to={"/"}>
           <h4>Tecnologias: React, JS, html, css y Git</h4>
@@ -56,7 +56,7 @@ export function Menu() {
           <h4>Mas datos proximamente</h4>
         </Link>
         <div className="opcion">
-          <h4>Version temprana, sujeto a cambios</h4>
+          <h4>Primera version completa</h4>
         </div>
         <div className="opcion">
 
